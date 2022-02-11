@@ -1,3 +1,5 @@
+numpy
+pandas
 certifi==2018.1.18
 daal
 daal4py
